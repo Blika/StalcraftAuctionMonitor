@@ -4,7 +4,7 @@ It only works for active lots on the auction and its sells history. Only RU regi
 
 # Usage
 You need a token ([more info here](https://eapi.stalcraft.net/registration.html)) to get access to the Production API. Otherwise this app will be dealing with Demo API.<br />
-This project does not provide you a token for Production API, you need to get your own.<br />
+This project does not provide you with a token for Production API, you need to get your own.<br />
 
 To start using this app, you need to make sure the database is up-to-date (you need to do it regularly).<br />
 You can either download the source files from https://github.com/EXBO-Studio/stalcraft-api.git or use a pull script from this project (you must have `git` installed on your OS).<br />
