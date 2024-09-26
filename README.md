@@ -27,7 +27,7 @@ To check active lots run `check <qlt> <ptn> <name>`. `qlt` can be in range from 
 This command will return all active lots from the auction.<br />
 
 You can also view sells history for each item. There is a limit for lots, by reaching it the app stops to send requests and process yielded data. It is set to 20 but you are free to change this. Run `lots <number>`.<br />
-Run `find <qlt> <ptn> <name>`. Arguments are the same as in `check`. This process will take a while if you set the maximum offset too high. Once there is enough lots to fit the `lots` limit, the process stops.<br />
+Run `find <qlt> <ptn> <name>`. Arguments are the same as in `check`. This process will take a while if you set the maximum offset too big. Once there is enough lots to fit the `lots` limit, the process stops.<br />
 Now you can see for how much that item was sold and when.<br />
 
 # Build
