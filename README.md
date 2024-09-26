@@ -3,7 +3,7 @@ Auction monitor for STALCRAFT: X. It is a console app that allows you to send re
 It only works for active lots on the auction and its sells history. Only RU region is available, all items are found by their cyrillic names.<br />
 
 # Usage
-You need a token ([more info](here https://eapi.stalcraft.net/registration.html)) to get access to the Production API. Otherwise this app will be dealing with Demo API.<br />
+You need a token ([more info here](https://eapi.stalcraft.net/registration.html)) to get access to the Production API. Otherwise this app will be dealing with Demo API.<br />
 This project does not provide you a token for Production API, you need to get your own.<br />
 
 To start using this app, you need to make sure the database is up-to-date (you need to do it regularly).<br />
